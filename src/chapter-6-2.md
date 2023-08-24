@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=============================================================================
 
 While there are many potential benefits to implementing AI in small businesses, there can also be resistance to change. In this chapter, we'll explore some of the common reasons for resistance and provide strategies for overcoming these challenges.
 

@@ -1,5 +1,3 @@
-Operations and Logistics
-=========================================================================
 
 AI can offer many benefits to small businesses, including increased efficiency, productivity, and innovation. In this chapter, we'll explore some of the specific ways that AI can be applied in operations and logistics.
 

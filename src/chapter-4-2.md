@@ -1,5 +1,3 @@
-Legal Considerations
-===================================================================
 
 In addition to privacy and security concerns, there are also legal considerations that small businesses must take into account when implementing AI technologies. In this chapter, we will explore some of the key legal challenges associated with AI-powered small business.
 

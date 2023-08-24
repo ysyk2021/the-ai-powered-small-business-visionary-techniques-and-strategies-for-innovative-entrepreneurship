@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI in Small Business
-=============================================
 
 AI technologies offer many benefits for small businesses, but there are also challenges and considerations to keep in mind. In this chapter, we will explore some of the key challenges associated with AI-powered small business, including ethical considerations, legal considerations, and privacy and security concerns.
 

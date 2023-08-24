@@ -1,5 +1,3 @@
-How AI Works in Small Business
-=============================================================================
 
 AI technologies offer many benefits for small businesses, but understanding how they work is essential. In this chapter, we will provide an overview of how AI works in small business.
 

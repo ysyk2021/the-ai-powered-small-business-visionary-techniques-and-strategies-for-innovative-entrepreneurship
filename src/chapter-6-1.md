@@ -1,5 +1,3 @@
-Developing an AI Strategy
-=======================================================================
 
 Developing an AI strategy is critical for small businesses to ensure that these technologies are used effectively and aligned with their overall business goals. In this chapter, we will provide guidance on how small businesses can develop an AI strategy.
 

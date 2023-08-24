@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Small Business
-========================================
 
 As small businesses increasingly adopt AI technologies, it's important to effectively manage these systems to ensure transparency, accountability, and ethical use. In this chapter, we'll explore some key considerations for managing AI in small business operations.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 As small businesses increasingly rely on AI to optimize their operations and drive innovation, it's important to effectively manage these systems to ensure transparency, accountability, and ethical use. By implementing effective data management practices, ensuring transparency and accountability, and addressing potential bias, small businesses can leverage the power of AI while maintaining trust and credibility with their customers and stakeholders.
-
 

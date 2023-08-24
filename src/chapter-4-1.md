@@ -1,5 +1,3 @@
-Ethical Considerations
-=====================================================================
 
 As small businesses increasingly turn to AI technologies to improve their operations and drive growth, it's important to consider the ethical implications of these technologies. In this chapter, we will explore some of the key ethical challenges associated with AI-powered small business.
 

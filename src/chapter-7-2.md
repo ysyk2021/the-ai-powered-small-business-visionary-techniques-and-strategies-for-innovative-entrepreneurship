@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-==================================================================================
 
 As small businesses increasingly adopt AI technologies, it's important to ensure that these technologies are transparent and accountable. In this chapter, we'll explore some of the key considerations for managing AI in small business operations.
 

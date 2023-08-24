@@ -1,5 +1,3 @@
-Preparing for the future
-===================================================================
 
 Artificial intelligence (AI) has already transformed many aspects of small business operations and will continue to do so in the coming years. As an entrepreneur, it is essential to be aware of the latest AI trends and technologies and to prepare your business for the future.
 

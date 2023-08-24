@@ -1,5 +1,3 @@
-Customer Service and Support
-=============================================================================
 
 AI technologies can be particularly valuable for small businesses looking to improve their customer service and support operations. In this chapter, we will explore some of the specific applications of AI in customer service and support.
 
