@@ -10,3 +10,7 @@ Additionally, this book addresses the potential risks associated with the use of
 Whether you're a small business owner looking to optimize your operations or an entrepreneur interested in leveraging AI to drive innovation, 'The AI-Powered Small Business Visionary' provides the tools, techniques, and strategies you need to succeed in today's fast-paced business environment.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
