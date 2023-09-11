@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal considerations that small businesses need to keep in mind when utilizing AI-powered technologies. As these technologies continue to evolve and reshape industries, it is essential for entrepreneurs to navigate the legal landscape to ensure compliance and protect their business interests.
 

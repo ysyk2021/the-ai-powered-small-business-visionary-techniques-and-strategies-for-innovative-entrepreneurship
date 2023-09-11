@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges associated with resistance to change and discuss techniques and strategies for overcoming this resistance in the context of AI-powered small businesses.
 

@@ -1,5 +1,4 @@
-Chapter: Enhanced Decision-Making
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can leverage AI-powered techniques and strategies to enhance their decision-making processes. By harnessing the power of AI, small businesses can analyze complex data, gain actionable insights, and make informed decisions to drive innovation and achieve competitive advantage.
 

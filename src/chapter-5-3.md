@@ -1,5 +1,4 @@
-Chapter: Customer Service and Support
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can revolutionize customer service and support in small businesses. Leveraging AI-powered solutions can enhance customer experiences, streamline support processes, and drive satisfaction and loyalty.
 

@@ -1,5 +1,4 @@
-Chapter: Privacy and Security Concerns
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical topic of privacy and security concerns surrounding AI-powered small businesses. As these businesses harness the potential of AI technologies, it becomes crucial to safeguard sensitive data, protect customer privacy, and mitigate potential security risks.
 

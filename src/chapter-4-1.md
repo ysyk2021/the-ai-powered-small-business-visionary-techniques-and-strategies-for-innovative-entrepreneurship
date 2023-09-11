@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that small businesses should be mindful of when adopting and utilizing AI-powered technologies. As AI becomes more prevalent in various industries, it is crucial to ensure that ethical principles guide its development, deployment, and use.
 

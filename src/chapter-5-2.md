@@ -1,5 +1,4 @@
-Chapter: Operations and Logistics
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can revolutionize operations and logistics for small businesses. By leveraging AI-powered techniques and strategies, small businesses can optimize their processes, improve efficiency, and enhance customer satisfaction.
 
